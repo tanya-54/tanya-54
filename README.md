@@ -31,9 +31,9 @@ Machine Learning Enthusiast | Backend Developer (Node.js) | Lifelong Learner
 
 <h2>🏆 Achievements</h2>
 
-- Successfully implemented APIs for school management, including **Add School** and **List Schools** sorted by proximity.
 - Solved **100+ problems** on **LeetCode**, continuously enhancing data structures and algorithms skills.
-- Connected **Node.js** applications to **MySQL databases**, ensuring robust backend functionality.
+- Contributed in **Girlscript Summer Of Code** and got the PRs merged.
+- Participated in IIT kharagpur's CodeFest Enigma, tackled a real world problem.
 - Developed scalable backend systems using **Express.js** and **Node.js** for real-world applications.
 - Gained practical experience with **Postman** for API testing and validation.
 
