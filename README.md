@@ -11,19 +11,16 @@ Machine Learning Enthusiast | Backend Developer (Node.js) | Lifelong Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanya-dubey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanya%20Dubey-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/tanya-54" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Tanya%20Dubey-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
   <a href="https://medium.com/@dubeytanya2312" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Tanya%20Dubey-black?style=for-the-badge&logo=medium" alt="Medium Badge" />
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium Badge" />
   </a>
   <a href="mailto:dubeytanya2312@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail Badge" />
-  </a>
-  <a href="https://leetcode.com/dubeytanya23/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Tanya%20Dubey-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Gmail Badge" />
   </a>
 </p>
 
@@ -33,7 +30,7 @@ Machine Learning Enthusiast | Backend Developer (Node.js) | Lifelong Learner
 
 - Solved **100+ problems** on **LeetCode**, continuously enhancing data structures and algorithms skills.
 - Contributed in **Girlscript Summer Of Code** and got the PRs merged.
-- Participated in IIT kharagpur's CodeFest Enigma, tackled a real world problem.
+- Participated in IIT BHU's CodeFest Enigma, tackling a real-world problem.
 - Developed scalable backend systems using **Express.js** and **Node.js** for real-world applications.
 - Gained practical experience with **Postman** for API testing and validation.
 
